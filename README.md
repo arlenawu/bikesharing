@@ -37,3 +37,8 @@ Overall, it appears that a majority of bicycle checkouts are made customers who 
 A subscription model of payment also appears to be beneficial in maintaining a steady customer base.
 
 Most of the customer traffic in NYC is concentrated in Manhattan, so it will be useful to set up more rental stations within downtown Des Moines or other regions where there typically is a greater amount of commerce and traffic. Several rental stations should also be established in neighboring regions around the city for customers who wish to use the service to travel in or out of the city.
+
+### Suggestions for Future Analyses
+It would be worth examining how frequently subscribers use the Citibike service throughout the week versus non-subscribers. There may be a cut off point for frequency of use where non-subscribers may turn into subscribers.
+
+It would also be worth mapping out the home addresses or neighborhoods of subscribing customers to see if there are particular geographical factors that might influence which customers choose to subscribe to the bikeshare service.
