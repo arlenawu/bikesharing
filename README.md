@@ -4,7 +4,8 @@
 The purpose of this analysis is to examine customer rental patterns from NYC Citibike in order to help our client gather information in order to start up a similar bicycle rental business in Des Moines, Iowa.
 
 # Results
-[[Link to analysis on Tableau]](https://public.tableau.com/views/NYC_Citibike_Analysis_16277670977960/NYCCitibikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+Please use the following link to view the project on Tableau Public.
+[[Link to interactive dashboard on Tableau]](https://public.tableau.com/views/NYC_Citibike_Analysis_16277670977960/NYCCitibikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ### Trip Durations
 The charts below show the amount of time for which each rider checked out their bike. Regardless of gender, a majority of riders rented their bikes for no more than half an hour. It should be noted, however, that there are still a significant number of riders who checked out their bikes for many hours longer.
