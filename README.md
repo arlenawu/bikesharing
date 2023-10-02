@@ -5,6 +5,7 @@ The purpose of this analysis is to examine customer rental patterns from NYC Cit
 
 # Results
 Please use the following link to view the project on Tableau Public.
+
 [[Link to interactive dashboard on Tableau]](https://public.tableau.com/views/NYC_Citibike_Analysis_16277670977960/NYCCitibikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ### Trip Durations
