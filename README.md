@@ -1,7 +1,7 @@
 # bikesharing
 
 # Overview
-The purpose of this analysis is to examine customer rental patterns from NYC Citibike in order to help our client gather information in order to start up a similar bicycle rental business in Des Moines, Iowa. The primary aim is to understand the demographics of who might use a rental bike service, and when and where the peak demand for the service might be in a city.
+The purpose of this analysis is to examine customer rental patterns from NYC Citibike in order to help our client gather information in order to start up a similar bicycle rental business in Des Moines, Iowa. The primary questions I aimed to solve were: Who are the target customers, when would they need the service, and where would they use it?
 
 # Results
 Please use the following link to view the project on Tableau Public.
